@@ -5,7 +5,7 @@ With the use of Inquirer, FS, Classes, Sub Classes written using Express.js. Thi
 
 Video Link: [Tutorial Video](https://watch.screencastify.com/v/gJZrGSsm8MyZcOJOqQTO)
 
-![Tutorial](./video/tutorial.gif)
+![Tutorial](Video/tutorial.gif)
 
 ## Table of Contents
 - [Installation](#installation)
